@@ -1,4 +1,4 @@
-package ch3;
+package jungsuk.ch3;
 
 public class ex3_3 {
     public static void main(String[] args){

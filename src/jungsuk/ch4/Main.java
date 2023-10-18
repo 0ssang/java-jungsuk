@@ -1,4 +1,4 @@
-package ch4;
+package jungsuk.ch4;
 
 public class Main {
     public static void star1(){
@@ -72,27 +72,24 @@ public class Main {
         }
     }
     public static void star9(){
-        int n = 0;
-        for(int i = 1; i <= 5; i++){
-            for(int j = 1; j <= 5-n; j++){
-                if(j > n) System.out.print("*");
-                else System.out.print(" ");
+        for (int i = 1; i <= 5; i++) {
+            for (int j = 1; j <= 5; j++) {
+                if ((j <= 6 - i && j >= i) || (j <= i && j >= 6 - i))
+                    System.out.print("*");
+                else
+                    System.out.print(" ");
             }
-            if(i < 5-i) n++;
-            else n--;
             System.out.println();
         }
     }
     public static void star10(){
-        int n = 4;
-        for(int i = 0; i <= 5; i++){
-            for(int j = 0; j <= 5; j++){
-                if(j <= i) System.out.print("*");
-                else if (j <= n) {
+        for (int i = 1; i <= 5; i++) {
+            for (int j = 1; j <= 5; j++) {
+                if ((j <= i && j <= 6 - i) || (j >= 6 - i && j >= i))
+                    System.out.print("*");
+                else
                     System.out.print(" ");
-                } else System.out.print("*");
             }
-            if()
             System.out.println();
         }
     }

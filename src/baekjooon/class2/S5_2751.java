@@ -1,4 +1,4 @@
-package class2;
+package baekjooon.class2;
 
 import java.util.*;
 
