@@ -26,6 +26,6 @@ public class Quiz2 {
                 }
             }
         }
-                System.out.println(s+"S"+b+"B");
+        System.out.println(s+"S"+b+"B");
     }
 }
