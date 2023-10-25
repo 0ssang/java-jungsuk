@@ -5,15 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4049f1d4-0624-48e0-8e15-8db8198dce4a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/jungsuk/ch5/Ex5_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jungsuk/ch5/Ex5_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jungsuk/ch5/Ex5_12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jungsuk/ch5/Ex5_13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jungsuk/ch5/Ex5_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jungsuk/ch5/Ex5_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jungsuk/ch6/Ex6_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jungsuk/ch6/Ex6_20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jungsuk/ch6/Ex6_22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jungsuk/ch6/Ex6_23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jungsuk/ch6/Ex6_24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jungsuk/ch6/Ex6_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jungsuk/ch6/Ex6_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jungsuk/ch6/PrimitiveParamEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jungsuk/ch6/ReferenceParamEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jungsuk/ch6/ReferenceReturnEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jungsuk/ch6/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jungsuk/ch6/VarArgsEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jungsuk/ch7/Ex7_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/MethodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/MethodTest2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Quiz2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Quiz2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungsuk/ch5/Ex5_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungsuk/ch5/Ex5_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codingtest-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/codingtest-java.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +31,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JUnit4 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -43,27 +52,44 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit4",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
     "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ex5_13">
-    <configuration name="Ex5_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jungsuk.ch5.Ex5_10" />
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="jungsuk.ch6" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MethodTest2">
+    <configuration name="Ex6_20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jungsuk.ch6.Ex6_20" />
       <module name="codingtest-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jungsuk.ch5.*" />
+          <option name="PATTERN" value="jungsuk.ch6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex5_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jungsuk.ch5.Ex5_11" />
+    <configuration name="Ex6_22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jungsuk.ch6.Ex6_22" />
       <module name="codingtest-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jungsuk.ch5.*" />
+          <option name="PATTERN" value="jungsuk.ch6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex5_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jungsuk.ch5.Ex5_12" />
+    <configuration name="Ex6_23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jungsuk.ch6.Ex6_23" />
       <module name="codingtest-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jungsuk.ch5.*" />
+          <option name="PATTERN" value="jungsuk.ch6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,39 +123,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex5_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jungsuk.ch5.Ex5_13" />
+    <configuration name="MethodTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="codingtest-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jungsuk.ch5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MethodTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex5_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jungsuk.ch5.Ex5_9" />
+    <configuration name="MethodTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="codingtest-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jungsuk.ch5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MethodTest2" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ex5_13" />
-        <item itemvalue="Application.Ex5_12" />
-        <item itemvalue="Application.Ex5_11" />
-        <item itemvalue="Application.Ex5_10" />
-        <item itemvalue="Application.Ex5_9" />
+        <item itemvalue="JUnit.MethodTest2" />
+        <item itemvalue="JUnit.MethodTest" />
+        <item itemvalue="Application.Ex6_23" />
+        <item itemvalue="Application.Ex6_22" />
+        <item itemvalue="Application.Ex6_20" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +164,11 @@
       <workItem from="1697422537592" duration="16105000" />
       <workItem from="1697507835183" duration="571000" />
       <workItem from="1697514491908" duration="11280000" />
-      <workItem from="1697594060020" duration="50103000" />
+      <workItem from="1697594060020" duration="50860000" />
+      <workItem from="1697789406185" duration="35000" />
+      <workItem from="1697789449198" duration="3397000" />
+      <workItem from="1698030388289" duration="18116000" />
+      <workItem from="1698199304496" duration="10058000" />
     </task>
     <servers />
   </component>
