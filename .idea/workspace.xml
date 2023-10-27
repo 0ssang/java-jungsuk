@@ -5,23 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4049f1d4-0624-48e0-8e15-8db8198dce4a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/jungsuk/ch6/Ex6_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jungsuk/ch6/Ex6_20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jungsuk/ch6/Ex6_22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jungsuk/ch6/Ex6_23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jungsuk/ch6/Ex6_24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jungsuk/ch6/Ex6_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jungsuk/ch6/Ex6_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jungsuk/ch6/PrimitiveParamEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jungsuk/ch6/ReferenceParamEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jungsuk/ch6/ReferenceReturnEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jungsuk/ch6/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jungsuk/ch6/VarArgsEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jungsuk/ch7/Ex7_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/MethodTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/MethodTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jungsuk/ch7/CastingTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jungsuk/ch7/Ex7_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jungsuk/ch7/Ex7_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jungsuk/ch7/Ex7_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jungsuk/ch7/StarCraft.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codingtest-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/codingtest-java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jungsuk/ch7/Ex7_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungsuk/ch7/Ex7_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/MethodTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/MethodTest2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,13 +74,13 @@
       <recent name="jungsuk.ch6" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MethodTest2">
-    <configuration name="Ex6_20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jungsuk.ch6.Ex6_20" />
+  <component name="RunManager" selected="Application.Ex7_18">
+    <configuration name="CastingTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jungsuk.ch7.CastingTest1" />
       <module name="codingtest-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jungsuk.ch6.*" />
+          <option name="PATTERN" value="jungsuk.ch7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex6_22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jungsuk.ch6.Ex6_22" />
+    <configuration name="Ex7_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jungsuk.ch7.Ex7_11" />
       <module name="codingtest-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jungsuk.ch6.*" />
+          <option name="PATTERN" value="jungsuk.ch7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex6_23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jungsuk.ch6.Ex6_23" />
+    <configuration name="Ex7_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jungsuk.ch7.Ex7_11" />
       <module name="codingtest-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jungsuk.ch6.*" />
+          <option name="PATTERN" value="jungsuk.ch7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,31 +114,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Ex7_18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jungsuk.ch7.Ex7_18" />
       <module name="codingtest-java" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MethodTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jungsuk.ch7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Ex7_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jungsuk.ch7.Ex7_7" />
       <module name="codingtest-java" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MethodTest2" />
-      <option name="TEST_OBJECT" value="class" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jungsuk.ch7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MethodTest2" />
-        <item itemvalue="JUnit.MethodTest" />
-        <item itemvalue="Application.Ex6_23" />
-        <item itemvalue="Application.Ex6_22" />
-        <item itemvalue="Application.Ex6_20" />
+        <item itemvalue="Application.Ex7_18" />
+        <item itemvalue="Application.Ex7_11 (1)" />
+        <item itemvalue="Application.Ex7_11" />
+        <item itemvalue="Application.CastingTest1" />
+        <item itemvalue="Application.Ex7_7" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +167,7 @@
       <workItem from="1697789406185" duration="35000" />
       <workItem from="1697789449198" duration="3397000" />
       <workItem from="1698030388289" duration="18116000" />
-      <workItem from="1698199304496" duration="10058000" />
+      <workItem from="1698199304496" duration="24398000" />
     </task>
     <servers />
   </component>
