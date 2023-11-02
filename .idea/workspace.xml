@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4049f1d4-0624-48e0-8e15-8db8198dce4a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/jungsuk/ch7/Ex7_24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jungsuk/ch8/ExceptionEx12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jungsuk/ch8/ExceptionEx13.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungsuk/ch7/StarCraft.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jungsuk/ch7/Ex7_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungsuk/ch7/Ex7_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +68,33 @@
       <recent name="jungsuk.ch6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex7_24 (2)">
+  <component name="RunManager" selected="Application.Ex7_1 (1)">
+    <configuration name="Ex7_1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jungsuk.ch7.Ex7_1" />
+      <module name="codingtest-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jungsuk.ch7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex7_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jungsuk.ch7.Ex7_1" />
+      <module name="codingtest-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jungsuk.ch7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Ex7_24 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="jungsuk.ch7.Ex7_24" />
       <module name="codingtest-java" />
@@ -111,39 +134,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionEx11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jungsuk.ch8.ExceptionEx11" />
-      <module name="codingtest-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jungsuk.ch8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExceptionEx12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jungsuk.ch8.ExceptionEx12" />
-      <module name="codingtest-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jungsuk.ch8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex7_1 (1)" />
+        <item itemvalue="Application.Ex7_1" />
         <item itemvalue="Application.Ex7_24 (2)" />
         <item itemvalue="Application.Ex7_24 (1)" />
         <item itemvalue="Application.Ex7_24" />
-        <item itemvalue="Application.ExceptionEx12" />
-        <item itemvalue="Application.ExceptionEx11" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +162,7 @@
       <workItem from="1697789449198" duration="3397000" />
       <workItem from="1698030388289" duration="18116000" />
       <workItem from="1698199304496" duration="31721000" />
-      <workItem from="1698394575792" duration="33283000" />
+      <workItem from="1698394575792" duration="36716000" />
     </task>
     <servers />
   </component>

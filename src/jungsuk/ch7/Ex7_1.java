@@ -6,15 +6,9 @@ class SutdaDeck {
 
     SutdaDeck() {
         for (int i = 0; i < CARD_NUM; i++) {
-            if ((i + 1) % 10 == 1 || (i + 1) % 10 == 3 || (i + 1) % 10 == 8) {
-                if(i < CARD_NUM / 2)
-                    cards[i] = new SutdaCard((i + 1) % 10, true);
-                else
-                    cards[i] = new SutdaCard((i + 1) % 10, false);
-            } else if ((i + 1) % 10 == 0) {
-                cards[i] = new SutdaCard(10, false);
-            } else
-                cards[i] = new SutdaCard((i + 1) % 10, false);
+            int num = i %10 +1;
+            boolean isKwang = (i < 10) && (i == 1 || i == 3 || i == 8);
+            cards[i] = new SutdaCard(num, isKwang);
         }
     }
 
