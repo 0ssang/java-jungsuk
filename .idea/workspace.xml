@@ -5,12 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4049f1d4-0624-48e0-8e15-8db8198dce4a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/jungsuk/ch8/ExceptionEx14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jungsuk/ch8/ExceptionEx15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jungsuk/ch8/FinallyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jungsuk/ch11/ComparatorEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jungsuk/ch11/MyVector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jungsuk/ch12/EnumEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jungsuk/ch12/FruitBoxEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jungsuk/ch12_1/FruitBoxEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jungsuk/ch7/ProductEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/MyVectorTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungsuk/ch8/ExceptionEx12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungsuk/ch8/ExceptionEx12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jungsuk/ch8/ExceptionEx13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jungsuk/ch8/ExceptionEx13.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +24,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit4 Test Class" />
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -72,13 +76,13 @@
       <recent name="jungsuk.ch6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FinallyTest">
-    <configuration name="Ex7_1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jungsuk.ch7.Ex7_1" />
+  <component name="RunManager" selected="Application.EnumEx1">
+    <configuration name="ComparatorEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jungsuk.ch11.ComparatorEx" />
       <module name="codingtest-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jungsuk.ch7.*" />
+          <option name="PATTERN" value="jungsuk.ch11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex7_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jungsuk.ch7.Ex7_1" />
+    <configuration name="EnumEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jungsuk.ch12.EnumEx1" />
       <module name="codingtest-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jungsuk.ch7.*" />
+          <option name="PATTERN" value="jungsuk.ch12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionEx13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jungsuk.ch8.ExceptionEx13" />
+    <configuration name="FruitBoxEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jungsuk.ch12.FruitBoxEx3" />
       <module name="codingtest-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jungsuk.ch8.*" />
+          <option name="PATTERN" value="jungsuk.ch12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionEx14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jungsuk.ch8.ExceptionEx14" />
+    <configuration name="FruitBoxEx4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jungsuk.ch12_1.FruitBoxEx4" />
       <module name="codingtest-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jungsuk.ch8.*" />
+          <option name="PATTERN" value="jungsuk.ch12_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,26 +129,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FinallyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jungsuk.ch8.FinallyTest" />
+    <configuration name="MyVectorTest.sizeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="codingtest-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jungsuk.ch8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MyVectorTest" />
+      <option name="METHOD_NAME" value="sizeTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FinallyTest" />
-        <item itemvalue="Application.ExceptionEx14" />
-        <item itemvalue="Application.ExceptionEx13" />
-        <item itemvalue="Application.Ex7_1 (1)" />
-        <item itemvalue="Application.Ex7_1" />
+        <item itemvalue="Application.EnumEx1" />
+        <item itemvalue="Application.FruitBoxEx4" />
+        <item itemvalue="Application.FruitBoxEx3" />
+        <item itemvalue="Application.ComparatorEx" />
+        <item itemvalue="JUnit.MyVectorTest.sizeTest" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +167,13 @@
       <workItem from="1697789449198" duration="3397000" />
       <workItem from="1698030388289" duration="18116000" />
       <workItem from="1698199304496" duration="31721000" />
-      <workItem from="1698394575792" duration="41289000" />
+      <workItem from="1698394575792" duration="44137000" />
+      <workItem from="1699511381800" duration="10193000" />
+      <workItem from="1699762058749" duration="23000" />
+      <workItem from="1699762415505" duration="25000" />
+      <workItem from="1699840824762" duration="3952000" />
+      <workItem from="1700020396073" duration="1919000" />
+      <workItem from="1700711949436" duration="151000" />
     </task>
     <servers />
   </component>
